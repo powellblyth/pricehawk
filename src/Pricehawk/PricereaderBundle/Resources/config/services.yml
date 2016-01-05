@@ -1,0 +1,4 @@
+services:
+#    price_reader.example:
+#        class: Pricehawk\PricereaderBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]

@@ -1,0 +1,7 @@
+price_reader:
+    resource: "@PriceReaderBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation
